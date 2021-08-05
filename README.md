@@ -1,4 +1,3 @@
-# Machine-Learning-
 # Rock-Paper-Scissors Image Classification with Sequential Model using TensorFlow and Keras Library
 
 This is my Final Project of Belajar Machine Learning Pemula Course by Dicoding Indonesia. Image Classifier Rock Paper Scissors with Sequential Model using TensorFlow and Keras Library
